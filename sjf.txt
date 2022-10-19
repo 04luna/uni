@@ -1,0 +1,4 @@
+# Process Scheduling - Input file
+1 0 3 
+2 1 3 
+3 2 2
